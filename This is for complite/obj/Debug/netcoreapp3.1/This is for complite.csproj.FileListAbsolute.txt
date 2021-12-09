@@ -1,0 +1,14 @@
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.exe
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.deps.json
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.runtimeconfig.json
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.runtimeconfig.dev.json
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.dll
+C:\Users\My PC\source\repos\This is for complite\This is for complite\bin\Debug\netcoreapp3.1\This is for complite.pdb
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.AssemblyInfo.cs
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.dll
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.pdb
+C:\Users\My PC\source\repos\This is for complite\This is for complite\obj\Debug\netcoreapp3.1\This is for complite.genruntimeconfig.cache
